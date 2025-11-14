@@ -1,6 +1,9 @@
 
 # Система контролю версій Git та співпраця через GitHub
+
 =======
+=======
+
 
 ## Мета заняття
 - Освоїти основи роботи з Git як розподіленою системою контролю версій.
@@ -160,3 +163,9 @@ Git Flow, GitHub Flow, Trunk-based
 git commit --amend
 
 
+
+=======
+Git Flow, GitHub Flow, Trunk-based
+**4. Чи комітити node_modules**  
+Ні, використовуємо .gitignore
+>>>>>>> afbe14b2f06a022080760b3c1a53061f4abf33f5
