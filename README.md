@@ -164,8 +164,5 @@ git commit --amend
 
 
 
-=======
-Git Flow, GitHub Flow, Trunk-based
-**4. Чи комітити node_modules**  
-Ні, використовуємо .gitignore
+
 >>>>>>> afbe14b2f06a022080760b3c1a53061f4abf33f5
